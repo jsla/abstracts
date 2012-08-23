@@ -6,4 +6,4 @@ talks.
 
 If you're thinking about submitting a talk, fork this repo, add your abstract and info to `/proposals/<your talk>`, then send a pull request.  A jsla will then schedule and contact you. 
 
-See the [sample file](https://github.com/jsla/abstracts/tree/master/proposals/sample.md) for an example.
+See the [sample file](https://github.com/jsla/abstracts/blob/master/propsals/sample.md) for an example.
